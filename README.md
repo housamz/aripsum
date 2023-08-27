@@ -36,6 +36,12 @@ const tafilaParagraph = aripsum.generateParagraph(20, 50);
 console.log('Tafila Paragraph:', tafilaParagraph);
 ```
 
+#### Regular Text Example
+![Example](./screenshots/screenshot.png)  
+
+#### Tafila Text Example
+![Example](./screenshots/tafila.png)  
+
 ## API
 
 ### `new Aripsum(wordType)`
